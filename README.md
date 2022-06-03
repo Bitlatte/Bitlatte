@@ -21,9 +21,9 @@
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/Bitlatte/vite-react/issues/2) in [Bitlatte/vite-react](https://github.com/Bitlatte/vite-react)
-2. ❗️ Closed issue [#1](https://github.com/Bitlatte/vite-react/issues/1) in [Bitlatte/vite-react](https://github.com/Bitlatte/vite-react)
-3. ❗️ Opened issue [#2](https://github.com/Bitlatte/vite-react/issues/2) in [Bitlatte/vite-react](https://github.com/Bitlatte/vite-react)
-4. ❗️ Opened issue [#1](https://github.com/Bitlatte/vite-react/issues/1) in [Bitlatte/vite-react](https://github.com/Bitlatte/vite-react)
-5. 🎉 Merged PR [#2](https://github.com/lakefox/lakefox/pull/2) in [lakefox/lakefox](https://github.com/lakefox/lakefox)
+1. ❗️ Opened issue [#1](https://github.com/Bitlatte/vite-vue/issues/1) in [Bitlatte/vite-vue](https://github.com/Bitlatte/vite-vue)
+2. ❗️ Opened issue [#2](https://github.com/Bitlatte/vite-svelte/issues/2) in [Bitlatte/vite-svelte](https://github.com/Bitlatte/vite-svelte)
+3. ❗️ Opened issue [#3](https://github.com/Bitlatte/vite-react/issues/3) in [Bitlatte/vite-react](https://github.com/Bitlatte/vite-react)
+4. ❗️ Opened issue [#1](https://github.com/Bitlatte/vite-svelte/issues/1) in [Bitlatte/vite-svelte](https://github.com/Bitlatte/vite-svelte)
+5. ❗️ Closed issue [#2](https://github.com/Bitlatte/vite-react/issues/2) in [Bitlatte/vite-react](https://github.com/Bitlatte/vite-react)
 <!--END_SECTION:activity-->
