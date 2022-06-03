@@ -2,13 +2,13 @@
   <img src='https://raw.githubusercontent.com/Bitlatte/Bitlatte/output/github-snake.svg' />
 </div>
 
-### Currently Working on :pencil2:
+### Featured Repos :comet:
 <div align='center'>
   <a href='https://github.com/Bitlatte/vite-react'>
     <img width='49.5%' src='https://github-readme-stats.vercel.app/api/pin/?username=Bitlatte&repo=vite-react' />
   </a>
-  <a href='https://github.com/Bitlatte/REST-boilerplate'>
-    <img width='49.5%' src='https://github-readme-stats.vercel.app/api/pin/?username=Bitlatte&repo=REST-boilerplate' />
+  <a href='https://github.com/Bitlatte/vite-svelte'>
+    <img width='49.5%' src='https://github-readme-stats.vercel.app/api/pin/?username=Bitlatte&repo=vite-svelte' />
   </a>
 </div>
 
