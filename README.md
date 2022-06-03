@@ -21,9 +21,9 @@
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/lakefox/lakefox/pull/2) in [lakefox/lakefox](https://github.com/lakefox/lakefox)
-2. 💪 Opened PR [#2](https://github.com/lakefox/lakefox/pull/2) in [lakefox/lakefox](https://github.com/lakefox/lakefox)
-3. 🎉 Merged PR [#1](https://github.com/lakefox/lakefox/pull/1) in [lakefox/lakefox](https://github.com/lakefox/lakefox)
-4. 💪 Opened PR [#1](https://github.com/lakefox/lakefox/pull/1) in [lakefox/lakefox](https://github.com/lakefox/lakefox)
-5. ❌ Closed PR [#1](https://github.com/M-a-s-o-n/spre/pull/1) in [M-a-s-o-n/spre](https://github.com/M-a-s-o-n/spre)
+1. ❗️ Closed issue [#2](https://github.com/Bitlatte/vite-react/issues/2) in [Bitlatte/vite-react](https://github.com/Bitlatte/vite-react)
+2. ❗️ Closed issue [#1](https://github.com/Bitlatte/vite-react/issues/1) in [Bitlatte/vite-react](https://github.com/Bitlatte/vite-react)
+3. ❗️ Opened issue [#2](https://github.com/Bitlatte/vite-react/issues/2) in [Bitlatte/vite-react](https://github.com/Bitlatte/vite-react)
+4. ❗️ Opened issue [#1](https://github.com/Bitlatte/vite-react/issues/1) in [Bitlatte/vite-react](https://github.com/Bitlatte/vite-react)
+5. 🎉 Merged PR [#2](https://github.com/lakefox/lakefox/pull/2) in [lakefox/lakefox](https://github.com/lakefox/lakefox)
 <!--END_SECTION:activity-->
