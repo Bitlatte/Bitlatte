@@ -4,11 +4,11 @@
 
 ### Featured Repos :comet:
 <div align='center'>
-  <a href='https://github.com/Bitlatte/vite-react'>
-    <img width='49.5%' src='https://github-readme-stats.vercel.app/api/pin/?username=Bitlatte&repo=vite-react' />
+  <a href='https://github.com/Bitlatte/bitgen'>
+    <img width='49.5%' src='https://github-readme-stats.vercel.app/api/pin/?username=Bitlatte&repo=bitgen' />
   </a>
-  <a href='https://github.com/Bitlatte/vite-svelte'>
-    <img width='49.5%' src='https://github-readme-stats.vercel.app/api/pin/?username=Bitlatte&repo=vite-svelte' />
+  <a href='https://github.com/Bitlatte/jellybean'>
+    <img width='49.5%' src='https://github-readme-stats.vercel.app/api/pin/?username=Bitlatte&repo=jellybean' />
   </a>
 </div>
 
