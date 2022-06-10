@@ -21,9 +21,9 @@
 
 ### Recent Activity :fire:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Bitlatte/vite-vue/issues/1) in [Bitlatte/vite-vue](https://github.com/Bitlatte/vite-vue)
-2. ❗️ Opened issue [#2](https://github.com/Bitlatte/vite-svelte/issues/2) in [Bitlatte/vite-svelte](https://github.com/Bitlatte/vite-svelte)
-3. ❗️ Opened issue [#3](https://github.com/Bitlatte/vite-react/issues/3) in [Bitlatte/vite-react](https://github.com/Bitlatte/vite-react)
-4. ❗️ Opened issue [#1](https://github.com/Bitlatte/vite-svelte/issues/1) in [Bitlatte/vite-svelte](https://github.com/Bitlatte/vite-svelte)
-5. ❗️ Closed issue [#2](https://github.com/Bitlatte/vite-react/issues/2) in [Bitlatte/vite-react](https://github.com/Bitlatte/vite-react)
+1. ❗️ Closed issue [#3](https://github.com/Bitlatte/cocobean/issues/3) in [Bitlatte/cocobean](https://github.com/Bitlatte/cocobean)
+2. 🗣 Commented on [#4](https://github.com/Bitlatte/cocobean/issues/4) in [Bitlatte/cocobean](https://github.com/Bitlatte/cocobean)
+3. ❗️ Opened issue [#3](https://github.com/Bitlatte/cocobean/issues/3) in [Bitlatte/cocobean](https://github.com/Bitlatte/cocobean)
+4. 🎉 Merged PR [#4](https://github.com/lakefox/apollo/pull/4) in [lakefox/apollo](https://github.com/lakefox/apollo)
+5. 💪 Opened PR [#4](https://github.com/lakefox/apollo/pull/4) in [lakefox/apollo](https://github.com/lakefox/apollo)
 <!--END_SECTION:activity-->
