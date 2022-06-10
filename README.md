@@ -19,7 +19,7 @@
   <img width='99%'  src='https://activity-graph.herokuapp.com/graph?username=Bitlatte&theme=minimal&hide_border=true' />
 </div>
 
-### Recent Activity :zap:
+### Recent Activity :fire:
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1](https://github.com/Bitlatte/vite-vue/issues/1) in [Bitlatte/vite-vue](https://github.com/Bitlatte/vite-vue)
 2. ❗️ Opened issue [#2](https://github.com/Bitlatte/vite-svelte/issues/2) in [Bitlatte/vite-svelte](https://github.com/Bitlatte/vite-svelte)
