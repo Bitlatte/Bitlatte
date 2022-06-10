@@ -4,6 +4,7 @@ name: CI
 
 # Controls when the workflow will run
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 */12 * * *" # Runs at 0:00 and 12:00 each day
 
