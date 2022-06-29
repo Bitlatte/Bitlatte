@@ -8,7 +8,7 @@
     <img width='49.5%' src='https://github-readme-stats.vercel.app/api/pin/?username=Bitlatte&repo=bitgen' />
   </a>
   <a href='https://github.com/Bitlatte/jellybean'>
-    <img width='49.5%' src='https://github-readme-stats.vercel.app/api/pin/?username=Bitlatte&repo=jellybean' />
+    <img width='49.5%' src='https://github-readme-stats.vercel.app/api/pin/?username=Bitlatte&repo=barrel' />
   </a>
 </div>
 
