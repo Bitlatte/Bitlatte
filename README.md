@@ -23,7 +23,7 @@
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/Bitlatte/whiskey/pull/2) in [Bitlatte/whiskey](https://github.com/Bitlatte/whiskey)
 2. 💪 Opened PR [#2](https://github.com/Bitlatte/whiskey/pull/2) in [Bitlatte/whiskey](https://github.com/Bitlatte/whiskey)
-3. 🎉 Merged PR [#1](https://github.com/Bitlatte/whiskey/pull/1) in [Bitlatte/whiskey](https://github.com/Bitlatte/whiskey)
+3. ❌ Closed PR [#1](https://github.com/Bitlatte/whiskey/pull/1) in [Bitlatte/whiskey](https://github.com/Bitlatte/whiskey)
 4. 💪 Opened PR [#1](https://github.com/Bitlatte/whiskey/pull/1) in [Bitlatte/whiskey](https://github.com/Bitlatte/whiskey)
-5. 💪 Opened PR [#1](https://github.com/lakefox/fyn/pull/1) in [lakefox/fyn](https://github.com/lakefox/fyn)
+5. 🎉 Merged PR [#2](https://github.com/Bitlatte/whiskey/pull/2) in [Bitlatte/whiskey](https://github.com/Bitlatte/whiskey)
 <!--END_SECTION:activity-->
