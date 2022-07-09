@@ -4,10 +4,10 @@
 
 ### Featured Repos :comet:
 <div align='center'>
-  <a href='https://github.com/Bitlatte/bitgen'>
+  <a href='https://github.com/Bitlatte/beam'>
     <img width='49.5%' src='https://github-readme-stats.vercel.app/api/pin/?username=Bitlatte&repo=beam' />
   </a>
-  <a href='https://github.com/Bitlatte/jellybean'>
+  <a href='https://github.com/Bitlatte/barrel'>
     <img width='49.5%' src='https://github-readme-stats.vercel.app/api/pin/?username=Bitlatte&repo=barrel' />
   </a>
 </div>
