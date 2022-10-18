@@ -6,7 +6,7 @@
 ### <div align="center">I'm Coby, a tech enthusiast from Planet Earth 🌎</div>  
   
 
-- 🌱 I’m currently learning Kubernetes and   
+- 🌱 I’m currently learning Kubernetes and Rust  
   
 
 - ⚡ Fun fact: The semi-colon is NOT optional  
@@ -91,7 +91,3 @@
                     align="center"
                 />
             </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
