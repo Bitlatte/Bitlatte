@@ -1,31 +1,19 @@
-<div align='center'>
-  <img src='https://raw.githubusercontent.com/Bitlatte/Bitlatte/output/github-snake.svg' />
-</div>
+### Hi there 👋, my name is Coby
+#### Code + Coffee = Bitlatte
+Developer, engineer, artist, coffee enthusiast.
 
-### Featured Repos :comet:
-<div align='center'>
-  <a href='https://github.com/Bitlatte/beam'>
-    <img width='49.5%' src='https://github-readme-stats.vercel.app/api/pin/?username=Bitlatte&repo=beam' />
-  </a>
-  <a href='https://github.com/Bitlatte/barrel'>
-    <img width='49.5%' src='https://github-readme-stats.vercel.app/api/pin/?username=Bitlatte&repo=barrel' />
-  </a>
-</div>
+Skills: Svelte / TypeScript / Go / Machine Learning
 
-### Github Stats :computer:
-<div align='center'>
-  <img width='49.5%' src='https://github-readme-stats.vercel.app/api?username=Bitlatte&show_icons=true&hide_border=true' />
-  <img width='49.5%' src='https://github-readme-streak-stats.herokuapp.com/?user=Bitlatte&hide_border=true' />
-  <!--
-  <img width='99%'  src='https://activity-graph.herokuapp.com/graph?username=Bitlatte&theme=minimal&hide_border=true' />
-  -->
-</div>
+- 📫 How to reach me: me@cobymckinney.com 
 
-### Recent Activity :fire:
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/Bitlatte/beam/pull/1) in [Bitlatte/beam](https://github.com/Bitlatte/beam)
-2. 🎉 Merged PR [#2](https://github.com/Bitlatte/whiskey/pull/2) in [Bitlatte/whiskey](https://github.com/Bitlatte/whiskey)
-3. 💪 Opened PR [#2](https://github.com/Bitlatte/whiskey/pull/2) in [Bitlatte/whiskey](https://github.com/Bitlatte/whiskey)
-4. ❌ Closed PR [#1](https://github.com/Bitlatte/whiskey/pull/1) in [Bitlatte/whiskey](https://github.com/Bitlatte/whiskey)
-5. 💪 Opened PR [#1](https://github.com/Bitlatte/whiskey/pull/1) in [Bitlatte/whiskey](https://github.com/Bitlatte/whiskey)
-<!--END_SECTION:activity-->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bitlatte)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Bitlatte)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://cobymckinney.com)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bitlatte)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bitlatte&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/Bitlatte)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Bitlatte)  
+
