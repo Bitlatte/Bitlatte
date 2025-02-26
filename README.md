@@ -19,7 +19,10 @@
 ### <div align="center">I'm Bitlatte, a tech enthusiast from Planet Earth 🌎</div>  
   
 
-- 🌱 I'm currently learning Rust
+- 🌱 I'm currently learning ruby and vim.
+
+
+- 🔨 Building whatever seems interesting at the moment.
   
 
 - ⚡ Fun fact: The semi-colon is NOT optional
