@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-  ![Visitor Count](https://profile-counter.glitch.me/Bitlatte/count.svg)
+  <img src="https://profile-counter.glitch.me/Bitlatte/count.svg" align="center" />
 </div>
 
 ### <div align="center">I'm Bitlatte, a tech enthusiast from Planet Earth 🌎</div>  
